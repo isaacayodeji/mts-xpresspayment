@@ -1,0 +1,44 @@
+[
+  {
+    "data_aos1": "fade-right",
+    "data_aos2": "fade-left",
+    "title": "Secure and Easy Payment",
+    "text": "Xpressmonie offers secure and convenient payment options, allowing users to make transactions with just a few taps on their smartphones. Whether it's transferring funds to friends and family, paying bills, or making online purchases, Xpressmonie ensures that every transaction is encrypted and protected.",
+    "img": "/images/happyLady.png"
+  },
+  {
+    "data_aos1": "fade-right",
+    "data_aos2": "fade-left",
+    "title": "Savings and Target savings",
+    "text": "Xpressmonie makes it effortless for users to save and reach their financial goals. The app provides dedicated savings accounts where users can set targets and automate regular deposits. With personalized savings goals and progress tracking, Xpressmonie motivates users to save more and achieve financial stability. transfers.",
+    "img": "/images/savings_purse.jpg"
+  },
+  {
+    "data_aos1": "fade-right",
+    "data_aos2": "fade-left",
+    "title": "Cash Back Transaction",
+    "text": "Xpressmonie rewards its users with attractive cashback offers on various transactions. Whether it's shopping, bill payments, or using partner services, users can enjoy cashback benefits, providing them with additional savings and incentives to utilize the app for their everyday financial needs.",
+    "img": "/images/cashbacktrans.jpg"
+  },
+  {
+    "data_aos1": "fade-right",
+    "data_aos2": "fade-left",
+    "title": "Debit Card Access",
+    "text": "Xpressmonie provides users with both virtual and physical debit cards, seamlessly integrated into the app. The virtual card enables secure online transactions, while the physical card allows users to make purchases at physical stores and withdraw cash from ATMs, providing flexibility and convenience.",
+    "img": "/images/woman_with_debitCard.png"
+  },
+  {
+    "data_aos1": "fade-right",
+    "data_aos2": "fade-left",
+    "title": "Bills Payments",
+    "text": "Xpressmonie simplifies bill payments by enabling users to settle their utility bills, mobile recharges, and other invoices directly within the app. Users can schedule recurring payments, receive reminders, and track their payment history, ensuring they never miss a bill deadline.",
+    "img": "/images/billspay.jpg"
+  },
+  {
+    "data_aos1": "fade-right",
+    "data_aos2": "fade-left",
+    "title": "Enhanced Security",
+    "text": "Xpressmonie prioritizes the security and privacy of its users' financial information. The app incorporates advanced encryption technology, multi-factor authentication, and secure login methods, ensuring that user data and transactions remain confidential and protected",
+    "img": "/images/enhanced_security.png"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "animation": "fade-right",
+    "image": "/images/chairman.png",
+    "name": "High Chief Samuel Oni",
+    "title": "Chairmain"
+  },
+  {
+    "id": 2,
+    "animation": "zoom-out",
+    "image": "/images/awa.jpeg",
+    "name": "Dr Awa Ibraheem",
+    "title": "Non-Executive Director"
+  },
+  {
+    "id": 3,
+    "animation": "fade-left",
+    "image": "/images/muiz.png",
+    "name": "Abdulmuiz Awa-Ibraheem",
+    "title": "MD/CEO"
+  }
+]

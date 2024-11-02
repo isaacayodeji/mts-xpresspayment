@@ -1,0 +1,72 @@
+.animinate-top {
+    animation-name: moveTop;
+    animation-duration: 3s;
+    animation-timing-function: ease-out;
+}
+
+.animinate-bottom {
+    animation-name: moveBottom;
+    animation-duration: 3s;
+    animation-timing-function: ease-out;
+}
+
+.animinate-left {
+    animation-name: moveLeft;
+    animation-duration: 3s;
+    animation-timing-function: ease-out;
+}
+
+.animinate-right {
+    animation-name: moveRight;
+    animation-duration: 3s;
+    animation-timing-function: ease-out;
+}
+
+
+@keyframes moveTop {
+    0% {
+        opacity: 0;
+        transform: translateY(-100px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translate(0);
+    }
+}
+
+@keyframes moveBottom {
+    0% {
+        opacity: 0;
+        transform: translateY(100px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translate(0);
+    }
+}
+
+@keyframes moveLeft {
+    0% {
+        opacity: 0;
+        transform: translateX(-100px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translate(0);
+    }
+}
+
+@keyframes moveRight {
+    0% {
+        opacity: 1;
+        transform: translateX(100vw);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translate(0);
+    }
+}

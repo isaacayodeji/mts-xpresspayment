@@ -1,0 +1,37 @@
+[
+  {
+    "data_aos1": "fade-right",
+    "data_aos2": "fade-left",
+    "title": " Card Withdrawals",
+    "text": "Xpress Agents allows customers to conveniently withdraw cash from their bank accounts using their debit cards through our extensive agent network. This feature ensures easy access to funds, even in  areas where ATMs are scarce",
+    "img": "/images/card-withdrawal.png"
+  },
+  {
+    "data_aos1": "fade-right",
+    "data_aos2": "fade-left",
+    "title": "Transfers",
+    "text": "Customers can initiate fund transfers from their accounts to any bank account within the country using XPRESSAGENT. Our platform ensures swift and secure transactions, providing peace of mind to customers and facilitating seamless money transfers.",
+    "img": "/images/transferImage.png"
+  },
+  {
+    "data_aos1": "fade-right",
+    "data_aos2": "fade-left",
+    "title": "Deposit",
+    "text": "XPRESSAGENT enables customers to deposit funds into their bank accounts through our agents. This feature eliminates the need to visit bank branches, making banking services more accessible and convenient.",
+    "img": "/images/depositUsers.png"
+  },
+  {
+    "data_aos1": "fade-right",
+    "data_aos2": "fade-left",
+    "title": "Bill payment",
+    "text": "Xpressmonie provides users with both virtual and physical debit cards, seamlessly integrated into the app. The virtual card enables secure online transactions, while the physical card allows users to make purchases at physical stores and withdraw cash from ATMs, providing flexibility and convenience.",
+    "img": "/images/payBills.png"
+  },
+  {
+    "data_aos1": "fade-right",
+    "data_aos2": "fade-left",
+    "title": "Airtime Purchase",
+    "text": "Customers can easily top up their mobile airtime credits directly from XPRESSAGENT. Our platform supports various mobile networks, enabling customers to stay connected without any hassle.",
+    "img": "/images/airtimeGirl.png"
+  }
+]
